@@ -7,9 +7,11 @@ Simple-video-net is a multi-functional video social platform designed to provide
 ---
 Poster
 ---
+
 ![Poster](./Poster.png)
 
 ---
 Demo
 ---
+
 Video demonstration:[https://youtu.be/-7rEICh9D0s](https://youtu.be/sWTfmddAOzE)
