@@ -1,5 +1,6 @@
 ---
-title: FYP
+title: Final Year Project
 ---
 
-description:This is a live streaming video server based on the RTSP protocol. It provides users with functions such as video-on-demand, live viewing, and pop-up interaction. Unlike other streaming media servers on the market, this server discards redundant features to provide a convenient and efficient streaming media platform, ensuring the purest video/live viewing experience. The server utilizes the RTSP protocol, which offers low latency, cross-platform compatibility, and easy expandability, among other benefits. After logging in, users can favorite videos, comment on them, and perform other functions, as well as upload their own videos. The site also offers a column service where users can share content and interact with others.
+Simple-video-net is a multi-functional video social platform designed to provide a comprehensive environment for video content management and live streaming interaction. The project employs modern Web technologies to implement core features such as video uploading, live streaming capabilities, social interaction and personalized recommendations, thereby enabling users to upload video content, create and watch live streams, and engage in a wide range of social activities with other users on the platform, including following, commenting, liking and sending private messages. Furthermore, the platform incorporates account security and privacy protection measures to guarantee the security of users' operations and the confidentiality of their information. Through its comprehensive features and user-friendly interface, Simple-video-net establishes a highly interactive online video and live streaming community with an exceptional user experience.
+
